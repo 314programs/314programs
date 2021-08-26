@@ -3,3 +3,4 @@
 - Started to learn python recently.
 - Will post notes about AI, maths or programming
 - Sad about school
+- Started BaekJoon
