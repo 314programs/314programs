@@ -4,3 +4,5 @@
 - Did Problem-solving using C++ and participated in APIO twice.
 - Sometimes makes random software, including Websites, Discord bots, and Chrome applications.
 - For a detailed explanation of how I make these, check out my [WordPress](https://314programs.wordpress.com/)
+
+[![314program's GitHub stats](https://github-readme-stats.vercel.app/api?username=314programs)](https://github.com/314programs/github-readme-stats)
